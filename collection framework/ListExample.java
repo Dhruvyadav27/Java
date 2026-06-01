@@ -1,10 +1,10 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class ListExample {
+public class list {
     public static void main(String[] args) {
         // 1. Ek String type ki List create karein (ArrayList implementation ke sath)
-        List<String> programmingLanguages = new ArrayList<>();
+        list<String> programmingLanguages = new ArrayList<>();
 
         // 2. Elements ko List mein add karna (Insertion)
         programmingLanguages.add("Java");
