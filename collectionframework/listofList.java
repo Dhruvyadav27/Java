@@ -17,7 +17,7 @@ public class listofList {
         list2.add(20);
         mainlist.add(list2);
         System.out.println(mainlist);
-        int element = mainlist.get(1).get(2); 
+        int element = mainlist.get(1).get(0); 
         System.out.println("Row 1 ke Index 2 ka element: " + element);
     }
 }
